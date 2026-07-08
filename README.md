@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0052cc&height=300&section=header&text=S%20Tatheer%20Hussain&fontSize=80&fontAlignY=35&desc=Enterprise%20SaaS%20Architect%20|%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0052cc&height=300&section=header&text=S%20Tatheer%20Hussain&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Enterprise%20SaaS%20Architect%20|%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
@@ -109,11 +109,28 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<h2 align="center">✦ System Telemetry ✦</h2>
+<h2 align="center">✦ Digital Footprint ✦</h2>
 
 <!-- Replacing the unstable Vercel API stats with an incredible wide-screen cyberpunk data flow GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" style="border-radius: 10px;" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+<h2 align="center">✦ Education & Additional Impact ✦</h2>
+
+<p align="center" style="font-size: 15px;">
+  <b>Bachelor's Degree in Computer Science</b> — University of Peshawar (Oct 2020 - Nov 2024)<br><br>
+  <b>International Educator</b> — Arizona State University (ASU)<br>
+  <b>Lecturer</b> — University of Peshawar<br>
+  <b>Managing Director</b> — Peaks & Plans<br>
+  <b>Advance Web Development Trainer</b> — EncoderBytes Pvt Ltd<br>
+  <b>Full Stack Engineer</b> — AJ Trust<br>
+  <b>Visiting Lecturer</b> — Institute of Health Sciences<br>
+  <b>Graphic Web Specialist</b> — Daastan Club<br>
 </p>
 
 <div align="center">
