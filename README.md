@@ -111,9 +111,13 @@
 
 <h2 align="center">✦ Digital Footprint ✦</h2>
 
-<!-- Replacing the unstable Vercel API stats with an incredible wide-screen cyberpunk data flow GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" style="border-radius: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=00tatheer00&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=00tatheer00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="./typing_dev.gif" width="400" alt="Developer Typing" />
 </p>
 
 <p align="center">
