@@ -120,17 +120,71 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<h2 align="center">✦ Education & Additional Impact ✦</h2>
+<h2 align="center">✦ Additional Leadership & Experience ✦</h2>
+
+<div align="center" style="text-align: left; max-width: 700px; margin: 0 auto;">
+
+<details>
+  <summary><b>✦ International Educator @ Arizona State University (ASU)</b></summary>
+  <blockquote>
+    Instructs global technical cohorts in fundamental and cutting-edge web technologies, structural application layouts, and server deployment strategies.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>✦ Lecturer @ University of Peshawar</b></summary>
+  <blockquote>
+    Teaches formal computing concepts, algorithmic workflows, advanced programming tracks, and engineering design structures within the Department of Computer Science.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>✦ Managing Director @ Peaks & Plans</b></summary>
+  <blockquote>
+    Supervises overall operational layout, technological strategy, and development workflows for product launches.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>✦ Advance Web Development Trainer @ EncoderBytes Pvt Ltd</b></summary>
+  <blockquote>
+    Leads accelerated training tracks focused on scaling production software architectures and clean-code development principles.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>✦ Full Stack Engineer @ AJ Trust</b></summary>
+  <blockquote>
+    Maintains and designs structural web environments, complex databases, and integrated cross-platform tools.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>✦ Visiting Lecturer @ Institute of Health Sciences (IHS)</b></summary>
+  <blockquote>
+    Taught specialized medical informatics systems and software interaction architectures.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>✦ Graphic Web Specialist @ Daastan Club</b></summary>
+  <blockquote>
+    Configured web delivery layouts and integrated programmatic interface aesthetics with core front-end builds.
+  </blockquote>
+</details>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+<h2 align="center">✦ Education ✦</h2>
 
 <p align="center" style="font-size: 15px;">
-  <b>Bachelor's Degree in Computer Science</b> — University of Peshawar (Oct 2020 - Nov 2024)<br><br>
-  <b>International Educator</b> — Arizona State University (ASU)<br>
-  <b>Lecturer</b> — University of Peshawar<br>
-  <b>Managing Director</b> — Peaks & Plans<br>
-  <b>Advance Web Development Trainer</b> — EncoderBytes Pvt Ltd<br>
-  <b>Full Stack Engineer</b> — AJ Trust<br>
-  <b>Visiting Lecturer</b> — Institute of Health Sciences<br>
-  <b>Graphic Web Specialist</b> — Daastan Club<br>
+  <b>Bachelor's Degree in Computer Science</b> — University of Peshawar (Oct 2020 - Nov 2024)
 </p>
 
 <div align="center">
